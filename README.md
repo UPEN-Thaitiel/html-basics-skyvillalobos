@@ -31,8 +31,9 @@ This repo consist of 4 directories, in each directory you wil find 2 files per t
 
 |  **Percentage**       |**Directory**       | **Criteria**                                   | **YES**       | **NO**        | **Observations** | 
 |------------------------------------------|------------------------------------------|-----------------------------------------------|-------------------------------|--------------------------|--------------------------|
-|  **20%**  |**Heading Element**  | Matches the png image?   |    |          |       | 
-| **20%**  |**Paragraph Element** | Matches the png image?               |        |   |    | 
-| **20%**  |**Void Element**      | Matches the png image?       |        | |  | 
-| **40%**  |**Movie Ranking** | Matches the png image?         |    |    | | 
+|  **20%**  |**Heading Element**  | Matches the png image?   |   X |          |       | 
+| **20%**  |**Paragraph Element** | Matches the png image?               |        | X  | You should have used <p>, your lines are not skiping one line.  | 
+| **20%**  |**Void Element**      | Matches the png image?       | X       | |  | 
+| **40%**  |**Movie Ranking** | Matches the png image?         |   X |    | | 
 
+Good job Scarlet!, I expect no further late submissions from you, **70/100** fue to late submission and one error.
